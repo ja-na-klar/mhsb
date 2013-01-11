@@ -1,0 +1,3 @@
+[submodule "development/vagrant-php-dev-stack"]
+	path = development/vagrant-php-dev-stack
+	url = git://github.com/anusch-athari/vagrant-php-dev-stack.git
